@@ -1,4 +1,4 @@
-Question: <b>Tell me about yourself</b>
+Question: <b>Tell me about yourself</b> 
 
 I have always had a keen eye for detail and a natural inclination towards analysis, which is what drew me to the field of cybersecurity. Throughout my career, I have developed a patient and vigilant approach to identifying potential security risks and implementing effective measures to mitigate them. My strong understanding of network protocols and security infrastructures has allowed me to effectively safeguard systems and data. What truly fuels my passion for this field is the constant drive to stay up-to-date on the latest security trends and technologies, ensuring that systems remain secure in an ever-evolving threat landscape.
 
@@ -73,6 +73,19 @@ Based on my qualifications and experience as a Cybersecurity Analyst, I believe 
 Question: <b>Do you have any questions for us?</b>
 
 Yes, I do have a question for you. As a cybersecurity analyst, I understand the importance of staying up-to-date with the latest security trends and best practices. Can you tell me more about the opportunities for professional development and continuing education within your organization to ensure that I can stay on top of the rapidly evolving cybersecurity landscape?
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Question: <b>How do you define success?</b>
 

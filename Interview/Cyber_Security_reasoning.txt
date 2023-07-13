@@ -1,4 +1,4 @@
-Question: <b>Tell me about yourself</b>
+Question: <b>Tell me about yourself</b> 
 
 I have always had a strong passion for cybersecurity and ensuring the safety of digital systems. With my attention to detail and analytical thinking, I have developed a deep understanding of network protocols and security infrastructures. I believe that being patient and vigilant are crucial qualities for a cybersecurity analyst, as they allow me to thoroughly investigate and identify potential threats. Additionally, I am constantly keeping myself up-to-date on the latest security trends, as staying informed is essential in this rapidly evolving field. Overall, my dedication to keeping systems secure drives me to excel in the role of a cybersecurity analyst.
 
@@ -73,6 +73,19 @@ Based on my experience and qualifications as a Cybersecurity Analyst, I believe 
 Question: <b>Do you have any questions for us?</b>
 
 Yes, I do have a question for you. I was wondering if your company has any ongoing training or professional development programs in place for cybersecurity analysts to stay updated on the latest security trends and technologies. As someone who is passionate about keeping systems secure, I believe it is crucial to continuously enhance my knowledge and skills in this ever-evolving field.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Question: <b>How do you define success?</b>
 

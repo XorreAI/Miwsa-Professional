@@ -1,4 +1,4 @@
-Question: <b>Tell me about yourself</b>
+Question: <b>Tell me about yourself</b> 
 
 As a Cybersecurity Analyst, I have developed a strong understanding of network protocols and security infrastructures through my previous experiences. I am detail-oriented and analytical, which allows me to identify potential vulnerabilities and develop effective strategies to mitigate them. I am also patient and vigilant, always staying alert to any potential threats or breaches. I am passionate about keeping systems secure and up-to-date on the latest security trends, constantly seeking to enhance my knowledge and skills. Overall, I bring a strong commitment to ensuring the confidentiality, integrity, and availability of critical data and systems.
 
@@ -73,6 +73,19 @@ Based on my experience and skill set as a Cybersecurity Analyst, I understand th
 Question: <b>Do you have any questions for us?</b>
 
 Yes, I do have a few questions. Could you please provide more information about the current cybersecurity measures in place at your organization? I am particularly interested in understanding the incident response protocols and the level of collaboration between different teams in handling security threats. Additionally, I would like to know if there are any ongoing initiatives or plans to enhance the security infrastructure in the near future.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Question: <b>How do you define success?</b>
 
